@@ -21,9 +21,8 @@ The bot scrapes relevant sections of the website, embeds the content using Sente
 
 ```bash
 ├── app.py                  # Streamlit UI code
-├── scrape_and_store.py     # Scraping & preprocessing script
-├── vector_db_setup.py      # Vector store creation code
-├── chatbot_core.py         # Langchain LLM + QA chain
+├── .env   
+├── notebook.ipynb        # Langchain LLM + QA chain
 ├── mosdac_chroma/          # Persisted Chroma vector DB
 ├── data/                   # Scraped and cleaned text files
 ├── requirements.txt        # Python dependencies
@@ -56,13 +55,11 @@ pip install -r requirements.txt
 
 ### 4. **Set Your API Key (OpenRouter API)**
 
-Create a `.env` file or set the environment variable:
+Create a `.env` file and paste your apenrouter api key like this:
 
 ```bash
-export OPENAI_API_KEY="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"
+export OPENAI_API_KEY="your_openrouter_api_key_here"
 ```
-
-Alternatively, replace `os.getenv("OPENAI_API_KEY")` in your code with your key directly if local only.
 
 ### 5. **Run the Streamlit App**
 
