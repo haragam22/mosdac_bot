@@ -1,0 +1,9 @@
+langchain_community
+lxml
+openai
+requests
+beautifulsoup4
+langchain
+sentence-transformers
+chromadb
+streamlit
