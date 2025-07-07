@@ -1,0 +1,5 @@
+.env
+*.pyc
+__pycache__/
+mosdac_chroma/
+openai_key.txt

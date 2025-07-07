@@ -1,0 +1,317 @@
+
+
+====== DATA PAGE ======
+
+Skip to main Content
+Website owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.
+"Ver 3.0; Last reviewed and updated on
+07 Jul, 2025& Served By:
+Web-Srv-Pri
+SignUp
+Login
+Logout
+Home
+MissionsINSAT-3DRINSAT-3DKALPANA-1INSAT-3AMeghaTropiquesSARAL-AltiKaOCEANSAT-2OCEANSAT-3INSAT-3DSSCATSAT-1
+INSAT-3DR
+INSAT-3D
+KALPANA-1
+INSAT-3A
+MeghaTropiques
+SARAL-AltiKa
+OCEANSAT-2
+OCEANSAT-3
+INSAT-3DS
+SCATSAT-1
+CatalogSatelliteInsitu (AWS)RADAR
+Satellite
+Insitu (AWS)
+RADAR
+GalleriesSatellite ProductsWeather ForecastOcean ForecastRADAR (DWR)Global Ocean Current
+Satellite Products
+Weather Forecast
+Ocean Forecast
+RADAR (DWR)
+Global Ocean Current
+Data AccessOrder DataOpen DataAtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud PropertiesLand3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil MoistureOceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable EnergyCal-ValForecastRSS Feeds
+Order Data
+Open DataAtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud PropertiesLand3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil MoistureOceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable Energy
+AtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud Properties
+Bayesian based MT-SAPHIR rainfall
+GPS derived Integrated water vapour
+GSMap ISRO Rain
+METEOSAT8 Cloud Properties
+Land3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil Moisture
+3D Volumetric TERLS DWRproduct
+Inland Water Height
+River Discharge
+Soil Moisture
+OceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable Energy
+Global Ocean Surface Current
+High Resolution Sea Surface Salinity
+Indian Mainland Coastal Product
+Ocean Subsurface
+Oceanic Eddies Detection
+Sea Ice Occurrence Probability
+Wave based Renewable Energy
+Cal-Val
+Forecast
+RSS Feeds
+ReportsCalibrationInsituRelativeValidationData QualityWeather
+CalibrationInsituRelative
+Insitu
+Relative
+Validation
+Data Quality
+Weather
+Atlases
+Tools
+Sitemap
+Help
+Feedback
+About Us
+Contact Us
+Copyright Policy
+Data Access Policy
+Hyperlink Policy
+Privacy Policy
+Website Policies
+Terms & Conditions
+FAQs
+
+====== SATELLITES PAGE ======
+
+Skip to main Content
+Website owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.
+"Ver 3.0; Last reviewed and updated on
+07 Jul, 2025& Served By:
+Web-Srv-Pri
+SignUp
+Login
+Logout
+Home
+MissionsINSAT-3DRINSAT-3DKALPANA-1INSAT-3AMeghaTropiquesSARAL-AltiKaOCEANSAT-2OCEANSAT-3INSAT-3DSSCATSAT-1
+INSAT-3DR
+INSAT-3D
+KALPANA-1
+INSAT-3A
+MeghaTropiques
+SARAL-AltiKa
+OCEANSAT-2
+OCEANSAT-3
+INSAT-3DS
+SCATSAT-1
+CatalogSatelliteInsitu (AWS)RADAR
+Satellite
+Insitu (AWS)
+RADAR
+GalleriesSatellite ProductsWeather ForecastOcean ForecastRADAR (DWR)Global Ocean Current
+Satellite Products
+Weather Forecast
+Ocean Forecast
+RADAR (DWR)
+Global Ocean Current
+Data AccessOrder DataOpen DataAtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud PropertiesLand3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil MoistureOceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable EnergyCal-ValForecastRSS Feeds
+Order Data
+Open DataAtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud PropertiesLand3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil MoistureOceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable Energy
+AtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud Properties
+Bayesian based MT-SAPHIR rainfall
+GPS derived Integrated water vapour
+GSMap ISRO Rain
+METEOSAT8 Cloud Properties
+Land3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil Moisture
+3D Volumetric TERLS DWRproduct
+Inland Water Height
+River Discharge
+Soil Moisture
+OceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable Energy
+Global Ocean Surface Current
+High Resolution Sea Surface Salinity
+Indian Mainland Coastal Product
+Ocean Subsurface
+Oceanic Eddies Detection
+Sea Ice Occurrence Probability
+Wave based Renewable Energy
+Cal-Val
+Forecast
+RSS Feeds
+ReportsCalibrationInsituRelativeValidationData QualityWeather
+CalibrationInsituRelative
+Insitu
+Relative
+Validation
+Data Quality
+Weather
+Atlases
+Tools
+Sitemap
+Help
+Feedback
+About Us
+Contact Us
+Copyright Policy
+Data Access Policy
+Hyperlink Policy
+Privacy Policy
+Website Policies
+Terms & Conditions
+FAQs
+
+====== LIVE PAGE ======
+
+
+
+====== FAQ PAGE ======
+
+Skip to main Content
+Website owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.
+"Ver 3.0; Last reviewed and updated on
+07 Jul, 2025& Served By:
+Web-Srv-Pri
+SignUp
+Login
+Logout
+Home
+MissionsINSAT-3DRINSAT-3DKALPANA-1INSAT-3AMeghaTropiquesSARAL-AltiKaOCEANSAT-2OCEANSAT-3INSAT-3DSSCATSAT-1
+INSAT-3DR
+INSAT-3D
+KALPANA-1
+INSAT-3A
+MeghaTropiques
+SARAL-AltiKa
+OCEANSAT-2
+OCEANSAT-3
+INSAT-3DS
+SCATSAT-1
+CatalogSatelliteInsitu (AWS)RADAR
+Satellite
+Insitu (AWS)
+RADAR
+GalleriesSatellite ProductsWeather ForecastOcean ForecastRADAR (DWR)Global Ocean Current
+Satellite Products
+Weather Forecast
+Ocean Forecast
+RADAR (DWR)
+Global Ocean Current
+Data AccessOrder DataOpen DataAtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud PropertiesLand3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil MoistureOceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable EnergyCal-ValForecastRSS Feeds
+Order Data
+Open DataAtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud PropertiesLand3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil MoistureOceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable Energy
+AtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud Properties
+Bayesian based MT-SAPHIR rainfall
+GPS derived Integrated water vapour
+GSMap ISRO Rain
+METEOSAT8 Cloud Properties
+Land3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil Moisture
+3D Volumetric TERLS DWRproduct
+Inland Water Height
+River Discharge
+Soil Moisture
+OceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable Energy
+Global Ocean Surface Current
+High Resolution Sea Surface Salinity
+Indian Mainland Coastal Product
+Ocean Subsurface
+Oceanic Eddies Detection
+Sea Ice Occurrence Probability
+Wave based Renewable Energy
+Cal-Val
+Forecast
+RSS Feeds
+ReportsCalibrationInsituRelativeValidationData QualityWeather
+CalibrationInsituRelative
+Insitu
+Relative
+Validation
+Data Quality
+Weather
+Atlases
+Tools
+Sitemap
+Help
+Feedback
+About Us
+Contact Us
+Copyright Policy
+Data Access Policy
+Hyperlink Policy
+Privacy Policy
+Website Policies
+Terms & Conditions
+FAQs
+
+====== ABOUT PAGE ======
+
+Skip to main Content
+Website owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.
+"Ver 3.0; Last reviewed and updated on
+07 Jul, 2025& Served By:
+Web-Srv-Pri
+SignUp
+Login
+Logout
+Home
+MissionsINSAT-3DRINSAT-3DKALPANA-1INSAT-3AMeghaTropiquesSARAL-AltiKaOCEANSAT-2OCEANSAT-3INSAT-3DSSCATSAT-1
+INSAT-3DR
+INSAT-3D
+KALPANA-1
+INSAT-3A
+MeghaTropiques
+SARAL-AltiKa
+OCEANSAT-2
+OCEANSAT-3
+INSAT-3DS
+SCATSAT-1
+CatalogSatelliteInsitu (AWS)RADAR
+Satellite
+Insitu (AWS)
+RADAR
+GalleriesSatellite ProductsWeather ForecastOcean ForecastRADAR (DWR)Global Ocean Current
+Satellite Products
+Weather Forecast
+Ocean Forecast
+RADAR (DWR)
+Global Ocean Current
+Data AccessOrder DataOpen DataAtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud PropertiesLand3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil MoistureOceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable EnergyCal-ValForecastRSS Feeds
+Order Data
+Open DataAtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud PropertiesLand3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil MoistureOceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable Energy
+AtmosphereBayesian based MT-SAPHIR rainfallGPS derived Integrated water vapourGSMap ISRO RainMETEOSAT8 Cloud Properties
+Bayesian based MT-SAPHIR rainfall
+GPS derived Integrated water vapour
+GSMap ISRO Rain
+METEOSAT8 Cloud Properties
+Land3D Volumetric TERLS DWRproductInland Water HeightRiver DischargeSoil Moisture
+3D Volumetric TERLS DWRproduct
+Inland Water Height
+River Discharge
+Soil Moisture
+OceanGlobal Ocean Surface CurrentHigh Resolution Sea Surface SalinityIndian Mainland Coastal ProductOcean SubsurfaceOceanic Eddies DetectionSea Ice Occurrence ProbabilityWave based Renewable Energy
+Global Ocean Surface Current
+High Resolution Sea Surface Salinity
+Indian Mainland Coastal Product
+Ocean Subsurface
+Oceanic Eddies Detection
+Sea Ice Occurrence Probability
+Wave based Renewable Energy
+Cal-Val
+Forecast
+RSS Feeds
+ReportsCalibrationInsituRelativeValidationData QualityWeather
+CalibrationInsituRelative
+Insitu
+Relative
+Validation
+Data Quality
+Weather
+Atlases
+Tools
+Sitemap
+Help
+Feedback
+About Us
+Contact Us
+Copyright Policy
+Data Access Policy
+Hyperlink Policy
+Privacy Policy
+Website Policies
+Terms & Conditions
+FAQs
