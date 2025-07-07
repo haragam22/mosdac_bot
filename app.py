@@ -5,9 +5,9 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 
-# --- SET ENVIRONMENT VARIABLES ---
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["OPENAI_API_BASE"] = "https://openrouter.ai/api/v1"
+from dotenv import load_dotenv
+# Load environment variables
+load_dotenv()
 
 # --- LOAD VECTOR STORE ---
 embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
@@ -19,8 +19,8 @@ retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 llm = ChatOpenAI(
     model="deepseek/deepseek-chat:free",
     temperature=0,
-    openai_api_base=os.environ["OPENAI_API_BASE"],
-    openai_api_key=os.environ["OPENAI_API_KEY"]
+    openai_api_base="https://openrouter.ai/api/v1",
+    openai_api_key=os.environ["OPENROUTER_API_KEY"]
 )
 
 qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever, chain_type="stuff")
